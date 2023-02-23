@@ -1,0 +1,88 @@
+[33mcommit 599a4837eddb4d909c558063cead6751d56bb3e9[m[33m ([m[1;36mHEAD -> [m[1;32mconflict_branch[m[33m, [m[1;31morigin/conflict_branch[m[33m)[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Thu Feb 23 10:44:26 2023 +0530
+
+    Try to conflict in File2.txt
+
+[33mcommit 2609bba136020dee36d5362b299abc66e9862410[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Thu Feb 23 10:41:22 2023 +0530
+
+    text changed to data in File1.txt
+
+[33mcommit 5d69b8890115ce7542ce7f4e7b7d13b52d56f209[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Thu Feb 23 10:33:19 2023 +0530
+
+    Some more text append in File1.txt
+
+[33mcommit 3065a591bba0d3badd8db136ac56f828e847f532[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Thu Feb 23 10:31:56 2023 +0530
+
+    Text append in File1.txt
+
+[33mcommit a14478b13a740504e36e8bbd742f8987c5aa97e8[m
+Merge: 8aae75e d038a4b
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Wed Feb 22 16:17:44 2023 +0530
+
+    Merge branch 'new_branch6'
+
+[33mcommit d038a4b2ca6bc31338c8680067fc3978728ae996[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Wed Feb 22 16:15:23 2023 +0530
+
+    This is File7.txt commit
+
+[33mcommit 8aae75ee33074d5699c3af53727a8f7e2619041e[m
+Merge: 0a11385 32618bd
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Wed Feb 22 16:10:04 2023 +0530
+
+    Merge branch 'main' of github.com:thulasiram924/Git-practice-repository
+
+[33mcommit 0a11385c6d5bdc4a627b2da4d4a28dcb7f0b2f84[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Wed Feb 22 16:05:59 2023 +0530
+
+    File6 is commited
+
+[33mcommit 32618bd5a3c9795007d975963a9418f394e83387[m
+Merge: 59bf02f 2b5d29d
+Author: thulasiram924 <38350629+thulasiram924@users.noreply.github.com>
+Date:   Wed Feb 22 16:02:39 2023 +0530
+
+    Merge pull request #1 from thulasiram924/new_branch5
+    
+    Create File5
+
+[33mcommit 2b5d29db4e250939e2dc509a422d914fea3251c0[m[33m ([m[1;31morigin/new_branch5[m[33m)[m
+Author: thulasiram924 <38350629+thulasiram924@users.noreply.github.com>
+Date:   Wed Feb 22 15:58:48 2023 +0530
+
+    Create File5
+
+[33mcommit 59bf02fa59deb91a03377cabdabfe2e0193077ee[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Wed Feb 22 15:46:32 2023 +0530
+
+    This is File4 - after branch is merged
+
+[33mcommit 37e828d610e0e93510d5972a90bf673e57bba457[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Wed Feb 22 15:26:24 2023 +0530
+
+    This is File3 pushed to new_branch
+
+[33mcommit 9e0e6baa0ae1100d97d46dd1f4f5cbf9465522ba[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Wed Feb 22 15:20:21 2023 +0530
+
+    This is File2.txt commit
+
+[33mcommit 40a0c0d717df60ee3cc0668a3b54a0d5a423c8b0[m
+Author: thulasiram924 <thulasiram5051@gmail.com>
+Date:   Wed Feb 22 12:37:33 2023 +0530
+
+    First Commit to git

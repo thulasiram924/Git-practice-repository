@@ -1,1 +1,1 @@
-That is File2 Created after File1.Some text added to see conflict happens or not.
+This is File2 Created after File1.Some text added to see conflict happens or not.
